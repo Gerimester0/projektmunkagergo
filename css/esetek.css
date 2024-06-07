@@ -1,0 +1,63 @@
+  body{
+  background-image: url(../images/hatter.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-left: 5%;
+  padding-right: 5%;
+  color: white;
+}
+
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: lightgreen;
+  }
+
+  a:visited{
+    color: red;
+  }
+  header{
+    text-align: center;
+    font-size: xx-large;
+    background-color: transparent;
+    color: crimson;
+  }
+  h3{
+    text-decoration: underline;
+    
+  }
+  #kep{
+    float: right;
+  }
+  #tartalom2{
+    text-align: justify;
+    padding-bottom: 10%;
+  }
+  #kep2{
+    float: left;
+    padding-right: 2%;
+  }
+  #kep3{
+    padding-left: 37%;
+    padding-right: 25%;
+  }

@@ -1,0 +1,90 @@
+    body{
+    color: black;
+    background-color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      
+      li a:hover {
+        background-color: lightgreen;
+      }
+
+      a:visited{
+        color: red;
+      }
+
+      header{
+        text-align: center;
+        
+      }
+      .h1{
+        color: darkblue;
+      }
+      h4{
+        text-decoration: underline;
+      }
+      #kep{
+        float: right;
+        margin-left: 20px;
+        margin-bottom: 20px;
+      }
+      
+      footer{
+        background-color: gray;
+        height: 50px;
+      }
+      form {
+        border: 3px solid #f1f1f1;
+        font-family: Arial;
+      }
+      
+      .container {
+        padding: 20px;
+        background-color: #f1f1f1;
+      }
+      
+      input[type=text], input[type=submit] {
+        width: 100%;
+        padding: 12px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+      }
+      
+      input[type=checkbox] {
+        margin-top: 16px;
+      }
+      
+      input[type=submit] {
+        background-color: #04AA6D;
+        color: white;
+        border: none;
+      }
+      
+      input[type=submit]:hover {
+        opacity: 0.8;
+      }

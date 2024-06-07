@@ -1,0 +1,50 @@
+body{
+background-color: gray;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: lightgreen;
+  }
+
+  a:visited{
+    color: red;
+}
+table, tr, td{
+    border: 1px solid ;
+    border-collapse: collapse;
+    
+}
+header{
+  text-align: center;
+  font-size: xx-large;
+  color: crimson;
+}
+ td{
+  background-color: wheat;
+  padding-bottom: 30px;
+  
+ }
+ tr{
+  text-align: left;
+  
+ }
